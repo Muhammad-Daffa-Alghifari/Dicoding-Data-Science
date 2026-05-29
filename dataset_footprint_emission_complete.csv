@@ -1,0 +1,70 @@
+no,nama,emisi,kategori
+1,Apple,0.15,Fruits
+2,Banana,0.805,Fruits
+3,Barley,1.18,Grains
+4,Beef (beef herd),99.48,Red Meat
+5,Beef (dairy herd),33.3,Red Meat
+6,Beet Sugar,1.81,Sweeteners
+7,Berries & Grapes,1.53,Fruits
+8,Brassicas,0.51,Vegetables
+9,Cane Sugar,3.2,Sweeteners
+10,Cassava,1.32,Root Crops
+11,Cheese,23.88,Dairy
+12,Citrus Fruit,0.39,Fruits
+13,Coffee,28.53,Beverages
+14,Chocolate,46.65,Processed Food
+15,Eggs,0.53,Animal Products
+16,Fish (farmed),13.63,Seafood
+17,Groundnuts,3.23,Nuts & Legumes
+18,Lamb & Mutton,39.72,Red Meat
+19,Maize,1.7,Grains
+20,Milk,3.15,Dairy
+21,Nuts,0.43,Nuts & Legumes
+22,Oatmeal,2.48,Processed Food
+23,Onions & Leeks,0.5,Vegetables
+24,Other Fruit,1.05,Fruits
+25,Other Pulses,1.79,Legumes
+26,Other Vegetables,0.53,Vegetables
+27,Peas,0.98,Legumes
+28,Pig Meat,12.31,Meat
+29,Potatoes,0.46,Root Crops
+30,Poultry Meat,9.87,Meat
+31,Prawns (farmed),26.87,Seafood
+32,Nasi Putih,0.64,Grains
+33,Root Vegetables,0.43,Root Crops
+34,Soy milk,0.98,Plant-Based Dairy
+35,Tofu,0.35,Plant-Based Protein
+36,Tomatoes,2.09,Vegetables
+37,Wheat & Rye,1.57,Grains
+38,Wine,1.79,Beverages
+39,Donat,1.06,bakery products
+40,Kiwi,0.32,Fruits
+41,Pizza,7.91,fast food
+42,Steak,55.55,red meat
+43,Kentang Goreng,3.63,fast food
+44,Cheeseburger,18.8,fast food
+45,Burger,4.36,fast food
+46,Veggie Burger,2.71,Plant-Based Food
+996,Spaghetti,1.98,Grains & Cereals
+48,Ayam Goreng,5.86,Fast Food
+50,Strawberries,1.75,Fruits
+51,Noodles,3.44,Prepared Food
+52,Spinach,0.27,Vegetables
+53,Chocolate Chip Cookie,6.27,Processed Food
+54,Rendang Sapi,0.708,Red Meat
+55,Tempeh,0.32355,Plant-based
+56,Tempe Goreng,3.7628865,Soy Products
+57,Tahu Goreng,4.0705,Soy Products
+58,Telur Rebus,2.74,Eggs
+59,Nugget,4.11,Poultry
+60,Mie Goreng,0.50,Grains & Cereals
+61,Bakso,10.7,Red Meat
+62,Terong Balado,11.71,Vegetables
+63,Telur Goreng,11.895,Eggs
+64,Nasi Goreng,12.535,Mixed Dishes
+65,Tumis Kangkung,1.374,Vegetables
+66,Ikan Goreng,13.64,Fish & Seafood
+67,Sate,1.06,Poultry
+68,Capcay,1.374,Vegetables
+69,Strawberry,0.57,Fruits
+70,Pempek,12.47,Fish & Seafood
