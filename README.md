@@ -176,8 +176,8 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Muhammad-Daffa-Alghifari/Dicoding-Data-Science.git
+   cd Dicoding-Data-Science
    ```
 
 2. **Place all dataset files** in the same directory as the notebook:
